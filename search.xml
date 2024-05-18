@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/05/18/hello-world/"/>
+      <url>/2024/05/18/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一个从零基础开始的acmer的第一场天梯赛</title>
+      <link href="/2024/04/19/%E4%B8%80%E4%B8%AA%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%BC%80%E5%A7%8B%E7%9A%84acmer%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
+      <url>/2024/04/19/%E4%B8%80%E4%B8%AA%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%BC%80%E5%A7%8B%E7%9A%84acmer%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E5%A4%A9%E6%A2%AF%E8%B5%9B/</url>
+      
+        <content type="html"><![CDATA[<p>上大学之后稀里糊涂的就成为了一个acmer。<br>这是目前为止参加的第一场比赛，一场线上赛，一场不能上厕所的比赛，一场没有拿到奖的比赛。总是会卡在简单题，虽然分数是我们队最高的，但还是感觉有点对不起队友，万一我把一阶段的最后一题写出来了呢，说不定就有铜奖了，不过这都是后话。<br>说实话，到现在为止除了日复一日的刷题，参加acm之后并没有什么特殊的感觉。可能最大的变化就是有一个万金油理由可以从各种繁杂的活动里脱身吧。我一直梦想的和两个队友参加icpc的画面什么时候才能实现呢。<br>算了，先把高数学懂吧。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
