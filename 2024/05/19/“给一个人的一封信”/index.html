@@ -479,10 +479,32 @@ p.spoiler {
     <span>NOTICE</span>
   </div>
   <div class="widget-body">
-    <p>距23年12月19已经过去了{% calc &#34;(new Date()).getFullYear()-2023&#34; %}</p>
+    <p>距23年12月19已经过去了</p>
+    <div id="time-difference">Loading time...</div>
   </div>
 </section>
 
+<script>
+  function updateTimeDifference() {
+      var now = new Date();
+      var targetDate = new Date("2023-12-19T23:59:59"); // 设置你的目标日期和时间
+      var timeDiff = now - targetDate;
+  
+      var seconds = Math.floor(timeDiff / 1000);
+      var minutes = Math.floor(seconds / 60);
+      var hours = Math.floor(minutes / 60);
+      var days = Math.floor(hours / 24);
+  
+      hours %= 24;
+      minutes %= 60;
+      seconds %= 60;
+  
+      var formattedTime = days + " 天, " + hours + " 小时, " + minutes + " 分钟, " + seconds + " 秒 ";
+      document.getElementById("time-difference").textContent =  formattedTime;
+  }
+  
+  setInterval(updateTimeDifference, 1000); // 每秒更新时间
+  </script>
 
       <section class="widget-categories widget-item layout-margin content-padding--primary soft-size--large soft-style--box">
   <div class="widget-title">
